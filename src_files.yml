@@ -77,7 +77,6 @@ components_rtl:
     rtl/components/apb_dummy.sv,
   ]
 
-
 components_behav:
   incdirs: [
     ../../rtl/includes,
@@ -90,4 +89,4 @@ components_behav:
   ]
   flags: [
     skip_synthesis,
-  ]
+  ]  
